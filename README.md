@@ -1,2 +1,2 @@
 # Snake-Game-WPF
-A simple snake game created in WPF using C# .NET 4.6
+A different snake game made by Georgi Koroljov
